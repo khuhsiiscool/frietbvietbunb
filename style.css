@@ -1,0 +1,66 @@
+
+ 
+  .heading_div2
+  {
+    font-size: 10px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px rgb(170, 92, 169);
+    font-size: 20px;
+  }
+ 
+
+  body
+{
+    background-image: linear-gradient(to right top, #619c89, #5e2bd6, #c582a9, #7c4dba, #5d87be);
+}
+
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:3px 3px 3px rgb(69, 202, 175);
+}
+
+
+.copy_right_footer {
+  position: fixed;
+  color: rgb(215, 161, 219);
+  bottom: 0;
+  width: 100%;
+  background-color:rgb(99, 195, 117);
+  line-height: 3;
+  text-align: center;
+}
+
+.result_para_tag
+{
+  box-shadow:5px 5px 5px rgb(193, 105, 208);
+  font-size: 20px;
+}
+.result_para_tag span
+{
+  white-space: pre-line;
+}
+
+.heading_div
+  {
+    float: none ; 
+    background: rgb(175, 95, 206) ; 
+    padding: 8px; 
+    border-radius: 20px; 
+    color: rgb(169, 39, 124);
+    box-shadow:5px 5px 5px rgb(75, 92, 194);
+  }
+
+
+  canvas 
+  {
+    border:5px solid rgb(116, 69, 202);
+    border-radius:20px;
+    box-shadow:5px 5px 5px rgb(214, 82, 188);
+    margin-top: 240px; 
+  }
+ 
